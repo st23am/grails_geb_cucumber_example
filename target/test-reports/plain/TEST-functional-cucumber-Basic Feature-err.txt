@@ -1,0 +1,11 @@
+
+--Output from Running this scenario--Started ChromeDriver
+port=16856
+version=26.0.1383.0
+log=/Users/st23am/Dev/groovy/example/chromedriver.log
+objc[4025]: Object 0x7a631ce0 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+objc[4025]: Object 0x7a6322f0 of class NSPathStore2 autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+objc[4025]: Object 0x7b2173b0 of class NSConcreteData autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+objc[4025]: Object 0x7b2177e0 of class __NSCFString autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+objc[4025]: Object 0x7a633320 of class NSBundle autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+[4026:-1405887960:0117/105634:ERROR:master_preferences.cc(104)] Failed to read master_preferences file at /Library/Google/Google Chrome Master Preferences. Falling back to default preferences.

@@ -1,0 +1,67 @@
+[0.001][INFO]:      ChromeDriver 26.0.1383.0 /Users/st23am/bin/chromedriver
+[0.606][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.608][INFO]:      Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --use-mock-keychain --ignore-certificate-errors about:blank
+[1.749][INFO]:      Connected to Chrome successfully. Version: 24.0.1312.52
+[1.812][FINE]:      Command received (/session/a049b86ed3f2c8f99b0e320e90f96fbf)
+[1.812][FINE]:      Command finished (/session/a049b86ed3f2c8f99b0e320e90f96fbf) with response {
+   "sessionId": "a049b86ed3f2c8f99b0e320e90f96fbf",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "mac",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "24.0.1312.52",
+      "webStorageEnabled": true
+   }
+}
+
+[1.849][FINE]:      Command received (/session/a049b86ed3f2c8f99b0e320e90f96fbf/url) with params {
+   "url": "http://localhost:8080/example/book/list"
+}
+
+[1.849][FINER]:     Waiting for all views to stop loading...
+[1.849][FINER]:     Done waiting for all views to stop loading
+[2.110][FINER]:     Waiting for all views to stop loading...
+[2.116][FINER]:     Done waiting for all views to stop loading
+[2.116][FINE]:      Command finished (/session/a049b86ed3f2c8f99b0e320e90f96fbf/url) with response {
+   "sessionId": "a049b86ed3f2c8f99b0e320e90f96fbf",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[2.125][FINE]:      Command received (/session/a049b86ed3f2c8f99b0e320e90f96fbf/title)
+[2.125][FINER]:     Waiting for all views to stop loading...
+[2.126][FINER]:     Done waiting for all views to stop loading
+[2.139][FINER]:     Waiting for all views to stop loading...
+[2.139][FINER]:     Done waiting for all views to stop loading
+[2.139][FINE]:      Command finished (/session/a049b86ed3f2c8f99b0e320e90f96fbf/title) with response {
+   "sessionId": "a049b86ed3f2c8f99b0e320e90f96fbf",
+   "status": 0,
+   "value": "Apache Tomcat/7.0.30 - Error report"
+}
+
+[3.847][FINE]:      Command received (/session/a049b86ed3f2c8f99b0e320e90f96fbf)
+[3.940][INFO]:      Chrome shutdown
