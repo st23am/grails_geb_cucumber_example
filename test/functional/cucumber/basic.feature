@@ -5,7 +5,7 @@ Feature: Basic Feature
 
   Scenario: Running this scenario
     Given I am running this with:
-      |something| something else|
-      | foo     |  bar          |
+      |title          | heading       |
+      | Book List     |  Books I like |
     When I run it
     Then it should pass
